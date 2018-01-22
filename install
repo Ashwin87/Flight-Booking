@@ -1,0 +1,5 @@
+You need WAMP or LAMP to run this web aplication
+unzip flights.zip 
+mysql -uroot -proot -hlocalhost < flights.sql
+checkout the code into wamp/www dir
+in browser open http://localhost
